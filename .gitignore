@@ -1,0 +1,4 @@
+.idea
+*.env
+beautifly/temp
+beautifly/__pycache__
