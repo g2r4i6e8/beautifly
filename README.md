@@ -2,6 +2,8 @@
 
 [Beautifly](https://t.me/BeautiflyBot) is a Telegram Bot to beautify images from users.
 
+! Bot is inactive now.
+
 ## Features
 
 - Greyscale
